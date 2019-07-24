@@ -1,0 +1,17 @@
+body {
+    color: blue;
+}
+h1 {
+    font-size: 10px;
+    text-align: left;
+    display: inline-flex
+}
+.header-image {
+    width: 950px;
+    max-width: 90%;
+    float: center;
+    margin: auto 10%;
+}
+.container {
+    flex-direction: 
+}
